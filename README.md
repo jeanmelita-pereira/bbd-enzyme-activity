@@ -16,7 +16,7 @@ i squared the linar values as in real life ,enzyme activity values first increas
 but quadratic values didnt perform well,there was a case of overfitting maybe due to lack of variety of data and combinations.
 
 ## Visualization
-predicted vs actual plot was generated to evaluate model accuracy
+predicted vs actual plot was generated to evaluate model accuracy(pred_vs_actual.png)
 
 ## Tools used
 Python,Pandas,Numpy,Matplot,Seaborn,pyDOE3
